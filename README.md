@@ -46,7 +46,7 @@ The dataset was analyzed to understand the distribution and summary statistics o
 
 ### Distribution of SeriousDlqin2yrs 📊
 
-<img src="./images/Target_Pie_Chart.png" width="600">
+<img src="./images/Target_Pie_Chart.png" width="300">
 
 ### Correlation Heatmap (Original Data) 📊
 
