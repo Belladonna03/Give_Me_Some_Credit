@@ -42,19 +42,19 @@ The dataset was analyzed to understand the distribution and summary statistics o
 
 ### Data Analysis Overview 📊
 
-![Data Analysis Overview](./images/Data_Analysis_Overview.png)
+<img src="./images/Data_Analysis_Overview.png" width="600">
 
 ### Distribution of SeriousDlqin2yrs 📊
 
-![Distribution of SeriousDlqin2yrs](./images/Target_Pie_Chart.png)
+<img src="./images/Target_Pie_Chart.png" width="600">
 
 ### Correlation Heatmap (Original Data) 📊
 
-![Correlation Heatmap (Original Data)](./images/Correlation_Heatmap_Original_Data.png)
+<img src="./images/Correlation_Heatmap_Original_Data.png" width="600">
 
 ### Correlation Heatmap (96 and 98 Adjusted Data) 📊
 
-![Correlation Heatmap (96 and 98 Adjusted Data)](./images/Correlation_Heatmap_96_And_98_Adjusted_Data.png)
+<img src="./images/Correlation_Heatmap_96_And_98_Adjusted_Data.png" width="600">
 
 ## Model Training and Evaluation 🧠
 
@@ -92,25 +92,25 @@ Feature importance was analyzed for each model to understand which features cont
 
 #### Logistic Regression Feature Importance 📊
 
-![Logistic Regression Feature Importance](./images/Logistic_Feature_Importance.png)
+<img src="./images/Logistic_Feature_Importance.png" width="600">
 
 #### XGBoost Feature Importance 📊
 
-![XGBoost Feature Importance](./images/XGBoost_Feature_Importance.png)
+<img src="./images/XGBoost_Feature_Importance.png" width="600">
 
 ### ROC Curves 📈
 
 #### Logistic Regression ROC Curve 📊
 
-![Logistic Regression ROC Curve](./images/Logistic_Regression_ROC.png)
+<img src="./images/Logistic_Regression_ROC.png" width="600">
 
 #### XGBClassifier ROC Curve 📊
 
-![XGBClassifier ROC Curve](./images/XGBClassifier_ROC.png)
+<img src="./images/XGBClassifier_ROC.png" width="600">
 
 #### Stacking ROC Curve 📊
 
-![Stacking ROC Curve](./images/Stacking_ROC.png)
+<img src="./images/Stacking_ROC.png" width="600">
 
 ## Conclusion 🎉
 
